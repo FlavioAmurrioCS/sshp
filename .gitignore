@@ -1,2 +1,4 @@
 sshp
 *.o
+build
+dist
